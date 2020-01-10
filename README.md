@@ -3,7 +3,7 @@ Created By : <a href="https://www.facebook.com/RasyidMFS"><b>RasyidMF</b></a><br
 Youtube Channel : <b><a href="https://www.youtube.com/channel/UC4pMFaK2xg1NVlmo3I6Kvkw?view_as=subscriber">Click Here</a></b><br>
 Version : <b>4.5 <code>(Release)</code></b><br>
 Country : <b>Indonesia</b> (+62) <br>
-Server : <b>Active</b> <br>
+Server : <b>3</b> <br>
 Premium : <b>Active</b> <br>
 Dev : <b>RTSoft</b><br>
 Working at (<b>Tested</b>) : <b>Windows 7 (32 Bit), Windows 7 (64 Bit), Windows 8 (32 Bit), Windows 8 (64 Bit), Windows 10 (32 Bit), Windows 10 (64 Bit)</b>
