@@ -4,7 +4,8 @@ Youtube Channel : <b><a href="https://www.youtube.com/channel/UC4pMFaK2xg1NVlmo3
 Version : <b>4.5 <code>(Release)</code></b><br>
 Country : <b>Indonesia</b> (+62) <br>
 Server : <b>3</b> (Close for 6 Weeks 3 Days) <br>
-Premium : <b>Active</b> <br>
+Premium : <b>0</b> (Closed) <br>
+Premium 2 : <b>Active</b> <br>
 Dev : <b>RTSoft</b><br>
 Working at (<b>Tested</b>) : <b>Windows 7 (32 Bit), Windows 7 (64 Bit), Windows 8 (32 Bit), Windows 8 (64 Bit), Windows 10 (32 Bit), Windows 10 (64 Bit)</b>
 
