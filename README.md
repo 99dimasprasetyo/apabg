@@ -1,7 +1,7 @@
-<h1>Auto Put And Break Growtopia 2019</h1>
+<h1>Auto Put And Break Growtopia 2020 Re-make</h1>
 Created By : <a href="https://www.facebook.com/RasyidMFS"><b>RasyidMF</b></a><br>
 Youtube Channel : <b><a href="https://www.youtube.com/channel/UC4pMFaK2xg1NVlmo3I6Kvkw?view_as=subscriber">Click Here</a></b><br>
-Version : <b>4.5 <code>(Release)</code></b><br>
+Version : <b>1.0 <code>(Release)</code></b><br>
 Country : <b>Indonesia</b> (+62) <br>
 Server : <b>Active</b> <br>
 Premium : <b>Active</b> <br>
