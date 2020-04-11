@@ -1,7 +1,7 @@
 <h1>Auto Put And Break Growtopia 2020 Re-make</h1>
 Created By : <a href="https://www.facebook.com/RasyidMFS"><b>RasyidMF</b></a><br>
 Youtube Channel : <b><a href="https://www.youtube.com/channel/UC4pMFaK2xg1NVlmo3I6Kvkw?view_as=subscriber">Click Here</a></b><br>
-Version : <b>1.0 <code>(Release)</code></b><br>
+Version : <b>1.2 <code>(Release)</code></b><br>
 Country : <b>Indonesia</b> (+62) <br>
 Server : <b>3</b> (Close for 6 Weeks 3 Days) <br>
 Premium : <b>0</b> (Closed) <br>
@@ -29,8 +29,20 @@ Working at (<b>Tested</b>) : <b>Windows 7 (32 Bit), Windows 7 (64 Bit), Windows 
 <li><code>If(ImageCompare("PNGFILE", "PNGFILE")): ...</code></li>
 <li><code>TakenImage("NoProcess", "X", "Y", "Width", "Height", "NameFile", "Show Log (0 / 1)")</code></li>
 
-<h1>Bug</h1>
-<li>At the new version we not found the bug, if you founded report it to Owner of this application</li>
+<h1>Error</h1>
+<li>msvcp140d.dll missing / not exists</li>
+Download some component here : 
+https://www.microsoft.com/en-US/download/details.aspx?id=48145
+https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+
+Try to download from 2012 - 2019
+<li>Error code 0x0000007b</li>
+this problem is likely due to :
+- Corrupt DLL
+- Outdated, corrupted or missing Microsoft .NET framework
+- Corrupt Windows System Files
+- Bugged Microsoft Visual C++ Redistributable
+More info at here : https://ugetfix.com/ask/how-to-fix-application-unable-to-start-error-0x000007b/
 
 <h1>Note</h1>
 Don't download application if url not same at the official. probably its an a virus with bind on our application!
@@ -55,6 +67,3 @@ Don't download application if url not same at the official. probably its an a vi
 <h1>Update 4.0</h1>
 <li>Adding Remote Menu</li>
 <li>Adding Unbanner Menu</li>
-
-<h1>Beta</h1>
-We currently not active the Android Remote page, cause we are not done yet.

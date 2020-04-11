@@ -1,0 +1,9 @@
+APaBG Version 1.2
+= Added AFK Bot
+= Added Costum Message in Auto Message Bot (New Player Entered World)
+= Added Monitoring APaBG Usage
+= Added Costum Version Growtopia (You can check at Menu Bot -> Info)
+
+Some text has not been updated like V.1.1, i'll fix it later.
+Having crash while AFK Bot ? Try to Disconnect All then Connect All again, it will reset memory
+=====================================================================
