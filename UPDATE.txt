@@ -7,3 +7,8 @@ APaBG Version 1.2
 Some text has not been updated like V.1.1, i'll fix it later.
 Having crash while AFK Bot ? Try to Disconnect All then Connect All again, it will reset memory
 =====================================================================
+APaBG Version 1.22
+= Fixing AFK Bot while Connecting
+= Added Log in AFK Bot while Connecting (This help me if there error appear)
+= Fixing Some Bug
+= Update "MAC" to "Host"
