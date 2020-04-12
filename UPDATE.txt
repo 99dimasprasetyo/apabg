@@ -12,3 +12,6 @@ APaBG Version 1.22
 = Added Log in AFK Bot while Connecting (This help me if there error appear)
 = Fixing Some Bug
 = Update "MAC" to "Host"
+=====================================================================
+APaBG Version 1.23
+= Added Auto Solve Captcha at AFK Bot
