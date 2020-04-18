@@ -22,3 +22,6 @@ APaBG Version 1.3
 APaBG Version 1.31
 = Fixing Auto Captcha Wrong Answer
 = Adding Click Submit with Mouse Function (Removed using "ENTER")
+=====================================================================
+APaBG Version 1.31.1
+= Removing Using Mouse Function after Solve Captcha to Press ENTER (I missclicked with send "ENTER" first before answer)
