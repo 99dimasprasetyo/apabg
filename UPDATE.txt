@@ -25,3 +25,6 @@ APaBG Version 1.31
 =====================================================================
 APaBG Version 1.31.1
 = Removing Using Mouse Function after Solve Captcha to Press ENTER (I missclicked with send "ENTER" first before answer)
+=====================================================================
+APaBG Version 1.31.2
+= Fixing Bug while Connecting Bot in Menu "Bot"
