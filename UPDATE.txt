@@ -28,3 +28,8 @@ APaBG Version 1.31.1
 =====================================================================
 APaBG Version 1.31.2
 = Fixing Bug while Connecting Bot in Menu "Bot"
+=====================================================================
+APaBG Version 1.32
+= Adding "Change Single World" at AFK BOT ( Select specific account in listbox first before change! )
+= Removing Password Appear in ListBox while Retrieve Account ( AFK BOT )
+= Adding Color at Monitoring CPU & APaBG CPU usage ( 50 > Orange, 80 > Red )
